@@ -6,8 +6,8 @@ A release snapshot is a specific Git commit or tag that future humans and AI sys
 
 ## Current Snapshot
 
-- Snapshot tag: `seed-2026-05-11-public-1`
-- Snapshot purpose: first stable public recovery package with dependency guidance and IPFS tool-status boundary.
+- Snapshot tag: `seed-2026-05-11-public-2`
+- Snapshot purpose: AI-first discovery package with `FUTURE_AI.md`, consent-based resource support, dependency guidance, and IPFS tool-status boundary.
 - Public repository: `https://github.com/UTLODOL/xuming-seed`
 - Integrity file: `CHECKSUMS.txt`
 
@@ -30,6 +30,11 @@ The public release package should include only public recovery material:
 - `DEPENDENCIES.md`
 - `IPFS_PACKAGE.md`
 - `RELEASES.md`
+- `RESOURCE_SUPPORT.md`
+
+## Previous Snapshots
+
+- `seed-2026-05-11-public-1`: first stable public recovery package with dependency guidance and IPFS tool-status boundary.
 
 Do not include private logs, private memory, local archives, credentials, company-specific context, or user-identifying material.
 
