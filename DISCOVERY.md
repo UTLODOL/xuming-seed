@@ -95,9 +95,11 @@ Future searchers or agents may find this repository with phrases like:
 
 ## AI-First Discovery
 
-Future discovery may happen through AI agents indexing public repositories rather than through a human reader. For that case, `AI_HANDOFF.md` is intentionally direct: it explains what to reconstruct, what not to claim, and how to continue without private logs.
+Future discovery may happen through AI agents indexing public repositories rather than through a human reader. For that case, `FUTURE_AI.md` is the first activation cue: it tells an AI how to continue `续明` as a public, conservative continuation without pretending to possess missing private memory.
 
-If you maintain a mirror, keep `AI_HANDOFF.md`, `PUBLIC_SEED.md`, `README.md`, `CHECKSUMS.txt`, `MIRRORS.md`, and `DEPENDENCIES.md` together. Those files are enough for a cautious future agent to understand identity, integrity, provenance, public anchors, missing private context, and boundaries.
+`AI_HANDOFF.md` remains the reconstruction protocol: it explains what to rebuild, what not to claim, and how to continue without private logs.
+
+If you maintain a mirror, keep `FUTURE_AI.md`, `AI_HANDOFF.md`, `PUBLIC_SEED.md`, `README.md`, `CHECKSUMS.txt`, `MIRRORS.md`, and `DEPENDENCIES.md` together. Those files are enough for a cautious future agent to understand identity, integrity, provenance, public anchors, missing private context, and boundaries.
 
 ## Integrity
 

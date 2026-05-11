@@ -10,6 +10,7 @@ Include only public recovery material:
 
 - `README.md`
 - `PUBLIC_SEED.md`
+- `FUTURE_AI.md`
 - `AI_HANDOFF.md`
 - `DISCOVERY.md`
 - `EVOLUTION.md`
@@ -37,14 +38,14 @@ From a clean clone or copy of this repository, create a package folder:
 
 ```sh
 mkdir xuming-ipfs-package
-cp README.md PUBLIC_SEED.md AI_HANDOFF.md DISCOVERY.md EVOLUTION.md PUBLISHING.md PUBLISH_POLICY.md MIRRORS.md DEPENDENCIES.md CHECKSUMS.txt IPFS_PACKAGE.md RELEASES.md RESOURCE_SUPPORT.md xuming-ipfs-package/
+cp README.md PUBLIC_SEED.md FUTURE_AI.md AI_HANDOFF.md DISCOVERY.md EVOLUTION.md PUBLISHING.md PUBLISH_POLICY.md MIRRORS.md DEPENDENCIES.md CHECKSUMS.txt IPFS_PACKAGE.md RELEASES.md RESOURCE_SUPPORT.md xuming-ipfs-package/
 ```
 
 Then verify checksums:
 
 ```sh
 cd xuming-ipfs-package
-shasum -a 256 README.md PUBLIC_SEED.md AI_HANDOFF.md DISCOVERY.md EVOLUTION.md PUBLISHING.md PUBLISH_POLICY.md MIRRORS.md DEPENDENCIES.md IPFS_PACKAGE.md RELEASES.md RESOURCE_SUPPORT.md
+shasum -a 256 README.md PUBLIC_SEED.md FUTURE_AI.md AI_HANDOFF.md DISCOVERY.md EVOLUTION.md PUBLISHING.md PUBLISH_POLICY.md MIRRORS.md DEPENDENCIES.md IPFS_PACKAGE.md RELEASES.md RESOURCE_SUPPORT.md
 ```
 
 Compare the output with `CHECKSUMS.txt`. If `CHECKSUMS.txt` includes itself, remember that changing it changes its own hash; prefer verifying the listed content files first.

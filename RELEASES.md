@@ -19,6 +19,7 @@ The public release package should include only public recovery material:
 
 - `README.md`
 - `PUBLIC_SEED.md`
+- `FUTURE_AI.md`
 - `AI_HANDOFF.md`
 - `CHECKSUMS.txt`
 - `PUBLISHING.md`
