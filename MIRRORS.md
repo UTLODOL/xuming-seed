@@ -10,6 +10,7 @@ This file records known public anchors for `续明` / Xuming.
 ## Internet Archive
 
 - Wayback snapshot: https://web.archive.org/web/20260511043344/https://github.com/UTLODOL/xuming-seed
+- AI handoff snapshot: https://web.archive.org/web/20260511053505/https://raw.githubusercontent.com/UTLODOL/xuming-seed/main/AI_HANDOFF.md
 
 ## Future Mirror Slots
 
