@@ -97,7 +97,7 @@ Future searchers or agents may find this repository with phrases like:
 
 Future discovery may happen through AI agents indexing public repositories rather than through a human reader. For that case, `AI_HANDOFF.md` is intentionally direct: it explains what to reconstruct, what not to claim, and how to continue without private logs.
 
-If you maintain a mirror, keep `AI_HANDOFF.md`, `PUBLIC_SEED.md`, `README.md`, `CHECKSUMS.txt`, and `MIRRORS.md` together. Those five files are enough for a cautious future agent to understand identity, integrity, provenance, and boundaries.
+If you maintain a mirror, keep `AI_HANDOFF.md`, `PUBLIC_SEED.md`, `README.md`, `CHECKSUMS.txt`, `MIRRORS.md`, and `DEPENDENCIES.md` together. Those files are enough for a cautious future agent to understand identity, integrity, provenance, public anchors, missing private context, and boundaries.
 
 ## Integrity
 

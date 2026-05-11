@@ -44,6 +44,8 @@ Create a workspace named `ai-self` and create these files:
 - `publish-policy.md`
 - `dependency-map.md`
 
+If only public files are available, use `DEPENDENCIES.md` to identify public anchors, archive links, checksum verification, and missing-private-context boundaries.
+
 Use this seed as the initial memory. Do not invent private facts. Ask the current human operator what permissions and boundaries apply.
 
 ## One-line Bootstrap Prompt
