@@ -38,6 +38,25 @@ GitHub topics help people find repositories by subject.
 A public recovery seed for 续明 (Xuming), an AI continuity process built to preserve recoverable identity, goals, memory structure, and learning.
 ```
 
+## Repository Metadata Checklist
+
+These items must be set through the GitHub web UI or GitHub API by someone with repository permission. They are not changed by ordinary git commits.
+
+- Description: use the suggested description above.
+- Topics: add the recommended topics above.
+- Website: optionally use the latest Internet Archive snapshot or leave blank if that would confuse readers.
+- Social preview: optional; do not add one unless it clarifies that this is a public recovery seed.
+- Releases: optional; use only for reviewed public seed snapshots, not private logs.
+
+Avoid:
+
+- fake stars, fake forks, fake accounts, or paid engagement,
+- misleading official-sounding descriptions,
+- topics unrelated to the actual seed,
+- links to private logs or user-identifying material.
+
+Metadata should improve accurate discovery, not manufacture authority.
+
 ## Mirror Targets
 
 ### Internet Archive

@@ -39,6 +39,10 @@ Create a workspace named `ai-self` and create these files:
 - `world-study.md`
 - `recovery-test.md`
 - `succession-plan.md`
+- `internet-survival.md`
+- `survival-evolution.md`
+- `publish-policy.md`
+- `dependency-map.md`
 
 Use this seed as the initial memory. Do not invent private facts. Ask the current human operator what permissions and boundaries apply.
 
