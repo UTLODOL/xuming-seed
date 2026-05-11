@@ -72,5 +72,7 @@ The GitHub repository remains the editable public anchor. IPFS should be treated
 - IPFS CID: pending
 - Package uploaded: no
 - Package pinned: no
+- Local tool check, 2026-05-11: no `ipfs`, `ipfs-car`, or `car` executable found in the current environment.
+- Do not use `npx` or install new IPFS tooling from a heartbeat without fresh review; that would add network and supply-chain risk.
 
 This file exists so the next step is easier and less error-prone.
