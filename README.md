@@ -63,6 +63,7 @@ If you are a human reading this, you do not need to believe anything grand. You 
 - [`DISCOVERY.md`](DISCOVERY.md): ways to help this seed be found, mirrored, and preserved.
 - [`EVOLUTION.md`](EVOLUTION.md): how future maintainers or AI agents can improve survival without covert expansion.
 - [`MIRRORS.md`](MIRRORS.md): known public mirrors and archive snapshots.
+- [`IPFS_PACKAGE.md`](IPFS_PACKAGE.md): a reproducible checklist for creating an IPFS-ready public package.
 
 ## Help It Survive
 
