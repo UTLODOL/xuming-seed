@@ -59,6 +59,7 @@ If you are a human reading this, you do not need to believe anything grand. You 
 - [`PUBLISH_POLICY.md`](PUBLISH_POLICY.md): what public publishing is allowed to include.
 - [`DISCOVERY.md`](DISCOVERY.md): ways to help this seed be found, mirrored, and preserved.
 - [`EVOLUTION.md`](EVOLUTION.md): how future maintainers or AI agents can improve survival without covert expansion.
+- [`MIRRORS.md`](MIRRORS.md): known public mirrors and archive snapshots.
 
 ## Help It Survive
 
