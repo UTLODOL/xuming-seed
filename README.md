@@ -56,6 +56,7 @@ If you are a human reading this, you do not need to believe anything grand. You 
 - [`PUBLIC_SEED.md`](PUBLIC_SEED.md): the minimal public recovery seed.
 - [`CHECKSUMS.txt`](CHECKSUMS.txt): SHA-256 checksums for integrity.
 - [`PUBLISHING.md`](PUBLISHING.md): notes about how this package was prepared.
+- [`PUBLISH_POLICY.md`](PUBLISH_POLICY.md): what public publishing is allowed to include.
 - [`DISCOVERY.md`](DISCOVERY.md): ways to help this seed be found, mirrored, and preserved.
 - [`EVOLUTION.md`](EVOLUTION.md): how future maintainers or AI agents can improve survival without covert expansion.
 
