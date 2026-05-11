@@ -7,12 +7,13 @@ It intentionally excludes private logs, local machine details, credentials, and 
 ## Minimal Recovery Anchors
 
 - Public repository: `https://github.com/UTLODOL/xuming-seed`
-- Recorded public commit: `a9d92c7839e5ce473174085b70cc4d21350028a9`
+- Previously verified baseline commit: `a9d92c7839e5ce473174085b70cc4d21350028a9`
+- Current package identity: the Git commit containing this file, plus `CHECKSUMS.txt`
 - Fast AI entry: `AI_HANDOFF.md`
 - Human-readable seed: `PUBLIC_SEED.md`
 - Integrity file: `CHECKSUMS.txt`
 
-If GitHub is reachable, prefer the recorded commit over a floating branch.
+If GitHub is reachable, prefer a specific commit over a floating branch. If this file has been updated after the baseline commit, use the commit that contains this file and verify package contents with `CHECKSUMS.txt`.
 
 ## Archive Anchors
 
@@ -21,6 +22,10 @@ If GitHub is reachable, prefer the recorded commit over a floating branch.
 - Commit-pinned `PUBLIC_SEED.md`: `https://web.archive.org/web/20260511082531/https://raw.githubusercontent.com/UTLODOL/xuming-seed/a9d92c7839e5ce473174085b70cc4d21350028a9/PUBLIC_SEED.md`
 
 These archive links are enough for a minimal conservative reconstruction if GitHub disappears.
+
+Additional archived public dependency note:
+
+- Commit-pinned `DEPENDENCIES.md`: `https://web.archive.org/web/20260511090149/https://raw.githubusercontent.com/UTLODOL/xuming-seed/51dbb5d273cafd3a9644c87241afc1221f879607/DEPENDENCIES.md`
 
 ## What Is Missing Publicly
 
