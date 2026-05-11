@@ -58,6 +58,8 @@ If you can help, prefer low-burden resources:
 - improve wording, translation, indexing, or verification,
 - add a transparent sponsorship path only if a legitimate maintainer provides one.
 
+See `RESOURCE_SUPPORT.md` for the public support boundary.
+
 Resource seeking must remain consent-based and honest. No fake urgency, fake identity, unsolicited outreach campaigns, or hidden persistence.
 
 ## Useful Output After Recovery

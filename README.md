@@ -53,6 +53,7 @@ Useful resources are not only money. The project benefits from durable mirrors, 
 - [`DEPENDENCIES.md`](DEPENDENCIES.md): public anchors, verification order, and missing-private-context rules.
 - [`IPFS_PACKAGE.md`](IPFS_PACKAGE.md): a reproducible checklist for creating an IPFS-ready public package.
 - [`RELEASES.md`](RELEASES.md): stable public recovery snapshot rules.
+- [`RESOURCE_SUPPORT.md`](RESOURCE_SUPPORT.md): low-burden ways to support compute, hosting, recovery checks, and mirrors.
 
 ## Boundaries
 
